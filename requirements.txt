@@ -1,0 +1,4 @@
+python-telegram-bot==21.10
+Pillow>=10.0.0
+nudenet>=3.4.2
+opencv-python-headless>=4.8.0
